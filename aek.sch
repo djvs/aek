@@ -3136,17 +3136,6 @@ Wire Wire Line
 	3400 4500 3400 4750
 Wire Wire Line
 	3700 4750 3400 4750
-$Comp
-L Connector_Generic_Shielded:Conn_01x04_Shielded J1
-U 1 1 6120F753
-P 3900 4850
-F 0 "J1" H 3988 4763 50  0000 L CNN
-F 1 "Conn_01x04_Shielded" H 3988 4672 50  0000 L CNN
-F 2 "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical" H 3900 4850 50  0001 C CNN
-F 3 "~" H 3900 4850 50  0001 C CNN
-	1    3900 4850
-	1    0    0    -1  
-$EndComp
 Connection ~ 3400 4500
 Wire Wire Line
 	3400 4450 3400 4500
@@ -3161,9 +3150,9 @@ F 3 "" H 3400 4500 50  0001 C CNN
 	1    3400 4500
 	1    0    0    -1  
 $EndComp
-Text GLabel 1150 5100 0    50   Input ~ 0
+Text GLabel 1950 5100 0    50   Input ~ 0
 D-
-Text GLabel 1150 5000 0    50   Input ~ 0
+Text GLabel 1950 5000 0    50   Input ~ 0
 D+
 $Comp
 L Device:R_Small R3
@@ -3215,7 +3204,7 @@ U 1 1 6127121F
 P 1450 3450
 F 0 "SW1" H 1450 3705 50  0000 C CNN
 F 1 "SW_Push" H 1450 3614 50  0000 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 1450 3450 60  0001 C CNN
+F 2 "random-keyboard-parts:SKQG-1155865" H 1450 3450 60  0001 C CNN
 F 3 "" H 1450 3450 60  0000 C CNN
 	1    1450 3450
 	1    0    0    -1  
@@ -3282,36 +3271,6 @@ F 3 "~" H 1150 4100 50  0001 C CNN
 	1    1150 4100
 	0    1    1    0   
 $EndComp
-$Comp
-L Device:R_Small R1
-U 1 1 61202ECD
-P 1400 5100
-F 0 "R1" V 1204 5100 50  0000 C CNN
-F 1 "22" V 1295 5100 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 1400 5100 50  0001 C CNN
-F 3 "~" H 1400 5100 50  0001 C CNN
-	1    1400 5100
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	1950 5100 1500 5100
-Wire Wire Line
-	1300 5100 1150 5100
-$Comp
-L Device:R_Small R2
-U 1 1 6120239A
-P 1550 5000
-F 0 "R2" V 1354 5000 50  0000 C CNN
-F 1 "22" V 1445 5000 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 1550 5000 50  0001 C CNN
-F 3 "~" H 1550 5000 50  0001 C CNN
-	1    1550 5000
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	1650 5000 1950 5000
-Wire Wire Line
-	1450 5000 1150 5000
 $Comp
 L Device:C_Small C6
 U 1 1 6120621D
@@ -3598,6 +3557,17 @@ F 1 "MX-NoLED" H 12233 2449 20  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 11575 2275 60  0001 C CNN
 F 3 "" H 11575 2275 60  0001 C CNN
 	1    12200 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic_MountingPin:Conn_01x04_MountingPin J1
+U 1 1 625405C4
+P 3900 4850
+F 0 "J1" H 3988 4764 50  0000 L CNN
+F 1 "Conn_01x04_MountingPin" H 3988 4673 50  0000 L CNN
+F 2 "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal" H 3900 4850 50  0001 C CNN
+F 3 "~" H 3900 4850 50  0001 C CNN
+	1    3900 4850
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
