@@ -1,8 +1,12 @@
-# aek2
+# aek[2]
 
 ![Screenshot of PCB](screenshot-2021-08-20.png)
 
-atmega32u4 pcb for M0115, M3501 and possibly others.  Released without warranty, PRs & feedback welcome
+USB/QMK atmega32u4 pcb for M0115, M3501 and possibly others, with WS2812B addressable LED support.  
+
+Released without warranty, use at your own risk.  
+
+PRs & feedback welcome!
 
 ---
 
