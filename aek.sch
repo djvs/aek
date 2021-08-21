@@ -3342,19 +3342,19 @@ F 3 "~" H 1700 8550 50  0001 C CNN
 	1    1700 8550
 	1    0    0    -1  
 $EndComp
-Text GLabel 3150 5300 2    50   Input ~ 0
+Text GLabel 3150 5700 2    50   Input ~ 0
 ROW6
-Text GLabel 3150 5400 2    50   Input ~ 0
+Text GLabel 3150 5600 2    50   Input ~ 0
 ROW5
-Text GLabel 3150 5200 2    50   Input ~ 0
+Text GLabel 3150 5500 2    50   Input ~ 0
 ROW4
 Text GLabel 3150 4300 2    50   Input ~ 0
 ROW3
 Text GLabel 3150 4100 2    50   Input ~ 0
 ROW2
-Text GLabel 3150 5700 2    50   Input ~ 0
+Text GLabel 3150 5900 2    50   Input ~ 0
 ROW0
-Text GLabel 3150 6700 2    50   Input ~ 0
+Text GLabel 3150 5300 2    50   Input ~ 0
 ROW9
 Text GLabel 6150 1150 1    50   Input ~ 0
 COL0
@@ -3378,23 +3378,21 @@ Text GLabel 12350 1150 1    50   Input ~ 0
 COL9
 Text GLabel 3150 4000 2    50   Input ~ 0
 COL9
-Text GLabel 3150 5500 2    50   Input ~ 0
-COL8
-Text GLabel 3150 5600 2    50   Input ~ 0
-COL7
 Text GLabel 3150 5800 2    50   Input ~ 0
-COL6
-Text GLabel 3150 5900 2    50   Input ~ 0
-COL5
+COL8
 Text GLabel 3150 4400 2    50   Input ~ 0
-COL4
-Text GLabel 3150 4500 2    50   Input ~ 0
-COL3
+COL7
 Text GLabel 3150 4600 2    50   Input ~ 0
-COL2
+COL5
 Text GLabel 3150 4900 2    50   Input ~ 0
-COL1
+COL4
 Text GLabel 3150 5000 2    50   Input ~ 0
+COL3
+Text GLabel 3150 6900 2    50   Input ~ 0
+COL2
+Text GLabel 3150 6800 2    50   Input ~ 0
+COL1
+Text GLabel 3150 6700 2    50   Input ~ 0
 COL0
 Wire Wire Line
 	3800 6100 4450 6100
@@ -3652,13 +3650,13 @@ Connection ~ 11350 9400
 Wire Wire Line
 	5800 4150 5850 4150
 Connection ~ 5850 4150
-Text GLabel 3150 6800 2    50   Input ~ 0
+Text GLabel 3150 5200 2    50   Input ~ 0
 ROW1
 Text GLabel 3150 4200 2    50   Input ~ 0
 ROW8
 Text GLabel 3150 4700 2    50   Input ~ 0
 ROW7
-Text GLabel 3150 6900 2    50   Input ~ 0
+Text GLabel 3150 5400 2    50   Input ~ 0
 ROW10
 Text GLabel 3950 6750 2    50   Input ~ 0
 LEDDIN
@@ -3873,16 +3871,16 @@ Wire Wire Line
 Wire Wire Line
 	5000 10400 6400 10400
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0116
 U 1 1 62F02BA2
 P 5000 10250
-F 0 "#PWR?" H 5000 10100 50  0001 C CNN
+F 0 "#PWR0116" H 5000 10100 50  0001 C CNN
 F 1 "+5V" H 5015 10423 50  0000 C CNN
 F 2 "" H 5000 10250 50  0001 C CNN
 F 3 "" H 5000 10250 50  0001 C CNN
 	1    5000 10250
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	5000 10250 5000 10400
+Text GLabel 3150 4500 2    50   Input ~ 0
+COL6
 $EndSCHEMATC
