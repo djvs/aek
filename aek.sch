@@ -3883,4 +3883,6 @@ F 3 "" H 5000 10250 50  0001 C CNN
 $EndComp
 Text GLabel 3150 4500 2    50   Input ~ 0
 COL6
+Wire Wire Line
+	5000 10400 5000 10250
 $EndSCHEMATC
