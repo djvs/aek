@@ -1,0 +1,64 @@
+Part Name,Part Type,Value,Footprint,Digikey Part Num.,LCSC Part Num.,JLCSMT Type,Other Notes
+nSMD050-24V,PTC Resettable Fuse,500mA,1206,,C70076,Extended,
+1206L050/15YR,Polyfuse,500mA Hold / 1A Trip,1206,,C151162,Extended,"The fuse listed in the tutorial doesn't appear to be available, but this one is."
+0603WAF220JT5E,Resistor,22,0603,,C23345,Basic,
+0603WAF1001T5E,Resistor,1k,0603,,C21191,Basic,
+0603WAF5101T5E,Resistor,5.1k,0603,,C23186,Basic,
+0603WAF1002T5E,Resistor,10k,0603,,C25804,Basic,
+0603WAF3302T5E,Resistor,33k,0603,,C4216,Basic,
+0603WAF1003T5E,Resistor,100k,0603,,C25803,Basic,
+0603WAF1004T5E,Resistor,1M,0603,,C22935,Basic,
+CL10C220JB8NNNC,"Capacitor, Ceramic",22pF,0603,,C1653,Basic,
+0603B472K500NT,"Capacitor, Ceramic",4.7nF,0603,,C53987,Basic,
+CC0603KRX7R9BB104,"Capacitor, Ceramic",0.1uF,0603,,C14663,Basic,
+CL10A105KB8NNNC,"Capacitor, Ceramic",1uF,0603,,C15849,Basic,
+CL10A475KO8NNNC,"Capacitor, Ceramic",4.7uF,0603,,C19666,Basic,
+CL10A106KP8NNNC,"Capacitor, Ceramic",10uF,0603,,C19702,Basic,
+CL10A226MQ8NRNC,"Capacitor, Ceramic",22uF,0603,,C59461,Basic,
+0603WAF4701T5E,Resistor,4.7k,0603,,C23162,Basic,
+0805W8F220JT5E,Resistor,22,0805,,C17561,Basic,
+0805W8F1001T5E,Resistor,1k,0805,,C17513,Basic,
+0805W8F5101T5E,Resistor,5.1k,0805,,C27834,Basic,
+0805W8F1002T5E,Resistor,10k,0805,,C17414,Basic,
+0805W8F3302T5E,Resistor,33k,0805,,C17633,Basic,
+0805W8F1003T5E,Resistor,100k,0805,,C17407,Basic,
+0805W8F1004T5E,Resistor,1M,0805,,C17514,Basic,
+CL21C220JBANNNC,"Capacitor, Ceramic",22pF,0805,,C1804,Basic,
+0805B472K500NT,"Capacitor, Ceramic",4.7nF,0805,,C1744,Basic,
+CC0805KRX7R9BB104,"Capacitor, Ceramic",0.1uF,0805,,C49678,Basic,
+CL21B105KBFNNNE,"Capacitor, Ceramic",1uF,0805,,C28323,Basic,
+CL21A475KAQNNNE,"Capacitor, Ceramic",4.7uF,0805,,C1779,Basic,
+CL21A106KAYNNNE,"Capacitor, Ceramic",10uF,0805,,C15850,Basic,
+CL21A226MAQNNNE,"Capacitor, Ceramic",22uF,0805,,C45783,Basic,
+0805W8F4701T5E,Resistor,4.7k,0805,,C17673,Basic,Used by split boards w/ QMK
+PJ-320A,"TRRS Connector, 3.5mm, THT",,3.5-4P,,---,Unavailable,Many colors available on Taobao
+ATMEGA32U2-AU,Microcontroller,AVR,32-TQFP (7x7),ATMEGA32U2-AU-ND,C618733,Unavailable,
+ATMEGA32U2-MU,Microcontroller,AVR,32-VQFN (5x5),ATMEGA32U2-MU-ND,C57345,Extended,
+X322516MLB4SI,Crystal Oscillator,16MHz,3225,,C13738,Basic,
+TS-1186D-C-A,Push Button,,4.70mm x 3.50mm,,C397351,Unavailable,Side-actuated tactile switch
+ATMEGA32U4-AU,Microcontroller,AVR,44-TQFP (10x10),ATMEGA32U4-AU-ND,C44854,Extended,
+ATMEGA32U4-MU,Microcontroller,AVR,44-VQFN (7x7),ATMEGA32U4-MU-ND,C112161,Extended,
+STM32F072CBT6,Microcontroller,ARM/STM32,48-LQFP (7x7),497-14645-ND,C81720,Extended,
+STM32F072CBU6,Microcontroller,ARM/STM32,48-UFQFPN (7x7),497-14646-ND,C92504,Extended,
+TS-1187A-B-A-B,Push Button,,5.1 x 5.1 MM,,C318884,Extended,
+TAJB107K006RNJ,"Capacitor, Tantalum",100uF,CASE-B / 3528,,C16133,Basic,
+EC11K1525413,Encoder,,EC11E,,C470752,Unavailable,"""Best"" normal encoder with detents"
+EC11E1834403,Encoder,,EC11E,,C361165,Unavailable,"Highest pulse EC11E w/o detents, 1.5mm switch"
+EC11E15244B2,Encoder,,EC11E,,,Unavailable,"30 detent (highest reliable) EC11E, 1.5mm switch"
+TYPE-C-31-M-12,USB-C,,HRO-TYPE-C-31-M-12,,C165948,Unavailable,"Cheap popular easy to solder USB 2.0 USB-C connector, even cheaper clones available in bulk from aliexpress at around 15c/each, shipped, https://www.aliexpress.com/item/4000259156096.html"
+TYPE-C-31-M-13,USB-C,,HRO-TYPE-C-31-M-13,,C223906,Unavailable,mid-mount version of M-12
+TYPE-C-31-M-14,USB-C,,HRO-TYPE-C-31-M-14,,C223907,Unavailable,Mid mount version USB-C - Used on the unsplit
+DY-S352818/RGBC/6812-2T,LED,,SK6812 Mini-E,,C524051,Unavailable,Tested and seems to work same as a SK6812 Mini-E
+SM4007PL,"Diode, Standard",,SOD-123,,C64898,Basic,"cheapest diode on jlcpcb, price fluctuates but <$0.004 (at 200+) each"
+1N4148W,"Diode, Standard",,SOD-123,,C81598,Basic,Common diode
+RB060M-60,Schottky Barrier Diode,,SOD-123,,C115330,Extended,
+SMF9.0CA,Bidirectional TVS Diode,9V Breakdown,SOD-123,,C123799,Extended,
+SMF6.0CA,Bidirectional TVS Diode,6V Breakdown,SOD-123,,C123791,Extended,
+UET14A05L03,ESD Protection IC,,SOT-143,,C78442,Extended,Equivalent to PRTR5V0U2X but available as extended part for assembly
+"PRTR5V0U2X,215",ESD Protection IC,,SOT-143B,1727-3884-2-ND,C12333,Unavailable,USB data line ESD protection
+XC6206P332MR,LDO,3.3V,SOT-23,,C5446,Basic,3.3v 200mA LDO stable with ceramic caps and basic JLC part https://datasheet.lcsc.com/szlcsc/1809201513_Torex-Semicon-XC6206P332MR_C5446.pdf
+DTC123JKAT146,"Transistor, NPN, Pre-Biased",DTC123J,SOT-23,,C111724,Extended,
+AO3400A,"MOSFET, N-Channel",30V 5.7A,SOT-23,,C347475,Extended,
+BSS138LT1G,"MOSFET, N-Channel",50V 200mA,SOT-23,,C82045,Extended,Often used for level shifting
+AO3400A,"MOSFET, N-Channel",30V 5.7A,SOT-23-3L,,C20917,Basic,
+SRV05-4-P-T7,ESD Protection IC,4 I/Os,SOT-23-6,,C85364,Basic,basic part esd protection for usb https://datasheet.lcsc.com/szlcsc/1809192313_ProTek-Devices-SRV05-4-P-T7_C85364.pdf
