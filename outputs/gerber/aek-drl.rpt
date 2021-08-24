@@ -1,0 +1,28 @@
+Drill report for aek.kicad_pcb
+Created on Tue 24 Aug 2021 01:10:17 AM EDT
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'aek-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (135 holes)
+    T2  1.000mm  0.0394"  (2 holes)
+    T3  1.470mm  0.0579"  (420 holes)
+    T4  2.700mm  0.1063"  (2 holes)
+
+    Total plated holes count 559
+
+
+Drill file 'aek-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.750mm  0.0689"  (210 holes)
+    T2  3.048mm  0.1200"  (14 holes)
+    T3  3.988mm  0.1570"  (119 holes)
+
+    Total unplated holes count 343
