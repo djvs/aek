@@ -5375,7 +5375,7 @@
   (symbol (lib_id "Device:D_Small") (at 314.96 186.69 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 0a9f023d-4fb2-47e0-ae5e-92c3e1654ff1)
-    (property "Reference" "D?" (id 0) (at 316.738 185.5216 90)
+    (property "Reference" "D43" (id 0) (at 316.738 185.5216 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 316.738 187.833 90)
@@ -5451,7 +5451,7 @@
   (symbol (lib_id "Device:D_Small") (at 317.5 148.59 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d2e42852-7fb4-474f-a864-b3c20a8b77a0)
-    (property "Reference" "D?" (id 0) (at 319.278 147.4216 90)
+    (property "Reference" "D105" (id 0) (at 319.278 147.4216 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 319.278 149.733 90)
@@ -7577,7 +7577,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 317.0682 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-2U-ReversedStabilizers-NoLED" (id 2) (at 300.355 161.925 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 300.355 161.925 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 300.355 161.925 0)
@@ -7672,7 +7672,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 319.6082 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-2U-ReversedStabilizers-NoLED" (id 2) (at 302.895 142.875 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 302.895 142.875 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 302.895 142.875 0)
@@ -7767,7 +7767,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 339.9282 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-2U-ReversedStabilizers-NoLED" (id 2) (at 323.215 123.825 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 323.215 123.825 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 323.215 123.825 0)
@@ -8164,6 +8164,9 @@
     (path "/00000000-0000-0000-0000-00006145a27d"
       (reference "D42") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
+    (path "/0a9f023d-4fb2-47e0-ae5e-92c3e1654ff1"
+      (reference "D43") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+    )
     (path "/00000000-0000-0000-0000-00006145a3a3"
       (reference "D44") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
@@ -8347,17 +8350,14 @@
     (path "/00000000-0000-0000-0000-0000614350af"
       (reference "D104") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
+    (path "/d2e42852-7fb4-474f-a864-b3c20a8b77a0"
+      (reference "D105") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+    )
     (path "/00000000-0000-0000-0000-00006145a285"
       (reference "D109") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00006145a318"
       (reference "D110") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/0a9f023d-4fb2-47e0-ae5e-92c3e1654ff1"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/d2e42852-7fb4-474f-a864-b3c20a8b77a0"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-000061db0c88"
       (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad")
@@ -8561,7 +8561,7 @@
       (reference "SW_KP9") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
     (path "/764d3922-6c3b-4ad1-99f1-13051e884ac2"
-      (reference "SW_KP0ALT1") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-2U-ReversedStabilizers-NoLED")
+      (reference "SW_KP0ALT1") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
     (path "/204e0ee4-dec0-4dc2-b622-9ea13958f955"
       (reference "SW_KP0X1") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
@@ -8573,10 +8573,10 @@
       (reference "SW_KPENTER1") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-2U-ReversedStabilizers-NoLED")
     )
     (path "/4f0dc72b-fb67-4861-96c0-74fd1311c468"
-      (reference "SW_KPENTERALT1") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-2U-ReversedStabilizers-NoLED")
+      (reference "SW_KPENTERALT1") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
     (path "/045dc86d-b269-41b1-9424-1a177a9b131f"
-      (reference "SW_KPENTERX1") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-2U-ReversedStabilizers-NoLED")
+      (reference "SW_KPENTERX1") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00006145a32b"
       (reference "SW_KPEQ1") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
