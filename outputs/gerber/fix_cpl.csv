@@ -1,5 +1,8 @@
 #!/bin/bash
 
-perl -pi -e "s/Ref,Val,Package,PosX,PosY,Rot,Side/Designator,Mid X,Mid Y,Rotation,Layer/" aek-*-pos.csv
-perl -pi -e 's/","[^"]*","[^"]*"/"/' aek-*-pos.csv
+cp aek-bottom-pos.csv jlcpcb-cpl-bottom.csv
+cp aek-top-pos.csv jlcpcb-cpl-top.csv
+
+perl -pi -e "s/Ref,Val,Package,PosX,PosY,Rot,Side/Designator,Mid X,Mid Y,Rotation,Layer/" jlcpcb-cpl*.csv
+perl -pi -e 's/","[^"]*","[^"]*"/"/' jlcpcb-cpl*.csv
 
