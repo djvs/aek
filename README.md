@@ -10,7 +10,7 @@ PRs & feedback welcome!
 
 ---
 
-Dimensions: 437.896mm x 142.748mm
+Dimensions: 437.896 x 142.748 mm
 
 ---
 
