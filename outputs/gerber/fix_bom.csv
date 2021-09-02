@@ -25,6 +25,7 @@ perl -pi -e 's/^("10k.*)/$1,"C17414"/' bom.editing.csv
 perl -pi -e 's/^("ATmega32U4.*)/$1,"C44854"/' bom.editing.csv
 perl -pi -e 's/^("16MHz.*)/$1,"C13738"/' bom.editing.csv
 perl -pi -e 's/^("22pF.*)/$1,"C1804"/' bom.editing.csv
+perl -pi -e 's/^("22".*)/$1,"C17561"/' bom.editing.csv
 
 perl -pi -e 's/"Designation.*/Comment,Designator,Footprint,JLCPCB Part #（optional )/' bom.editing.csv
 
