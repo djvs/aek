@@ -12,7 +12,7 @@ perl -pi -e "s/^[^;]*;\"BUZ1.*//" bom.editing.csv
 
 sed -i '/^$/d' bom.editing.csv
 
-awk -i inplace -F';' '{print $5,$1,$3}' OFS=',' bom.editing.csv
+awk -i inplace -F';' '{print $5,$3,$2}' OFS=',' bom.editing.csv
 
 perl -pi -e 's/^("D_Small.*)/$1,"C81598"/' bom.editing.csv
 perl -pi -e 's/^("0.1uF.*)/$1,"C49678"/' bom.editing.csv
@@ -27,7 +27,7 @@ perl -pi -e 's/^("16MHz.*)/$1,"C13738"/' bom.editing.csv
 perl -pi -e 's/^("22pF.*)/$1,"C1804"/' bom.editing.csv
 perl -pi -e 's/^("22".*)/$1,"C17561"/' bom.editing.csv
 
-perl -pi -e 's/"Designation.*/Comment,Designator,Footprint,JLCPCB Part #（optional )/' bom.editing.csv
+perl -pi -e 's/^.Designation.*/Comment,Footprint,Designator,JLCPCB Part #（optional )/' bom.editing.csv
 
 cp -rvf bom.editing.csv bom.csv
 

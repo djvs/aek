@@ -1,5 +1,5 @@
 #!/bin/bash
 
 perl -pi -e "s/Ref,Val,Package,PosX,PosY,Rot,Side/Designator,Mid X,Mid Y,Rotation,Layer/" aek-*-pos.csv
-perl -pi -e 's/","[^"]*","[^"]*"/"/' aek-*.pos.csv
+perl -pi -e 's/","[^"]*","[^"]*"/"/' aek-*-pos.csv
 
