@@ -3387,7 +3387,7 @@
   (symbol (lib_id "Device:R_Small") (at 35.56 91.44 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 86f546b5-aa43-4d36-9777-f9e527e27aec)
-    (property "Reference" "R5" (id 0) (at 35.56 86.4616 90))
+    (property "Reference" "R?" (id 0) (at 35.56 86.4616 90))
     (property "Value" "22" (id 1) (at 35.56 88.773 90))
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 35.56 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3402,7 +3402,7 @@
   (symbol (lib_id "Device:R_Small") (at 40.64 85.09 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 370e7d12-ac1a-44b1-8214-0db731e008f1)
-    (property "Reference" "R2" (id 0) (at 40.64 80.1116 90))
+    (property "Reference" "R?" (id 0) (at 40.64 80.1116 90))
     (property "Value" "22" (id 1) (at 40.64 82.423 90))
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 40.64 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8424,17 +8424,17 @@
     (path "/00000000-0000-0000-0000-00006130a8dc"
       (reference "R1") (unit 1) (value "330") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
-    (path "/370e7d12-ac1a-44b1-8214-0db731e008f1"
-      (reference "R2") (unit 1) (value "22") (footprint "Resistor_SMD:R_0805_2012Metric")
-    )
     (path "/00000000-0000-0000-0000-000061280f1c"
       (reference "R3") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/00000000-0000-0000-0000-0000611fe6c8"
       (reference "R4") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
+    (path "/370e7d12-ac1a-44b1-8214-0db731e008f1"
+      (reference "R?") (unit 1) (value "22") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
     (path "/86f546b5-aa43-4d36-9777-f9e527e27aec"
-      (reference "R5") (unit 1) (value "22") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R?") (unit 1) (value "22") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/00000000-0000-0000-0000-00006127121f"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "random-keyboard-parts:SKQG-1155865")
