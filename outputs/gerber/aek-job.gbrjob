@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "5.99.0-unknown-ae51e60f70~131~ubuntu21.10.1"
     },
-    "CreationDate": "2021-09-02T01:24:26-04:00"
+    "CreationDate": "2021-09-10T10:44:45-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.2,
-      "PadToTrack": 0.2,
+      "PadToPad": 0.0,
+      "PadToTrack": 0.0,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.25,
       "TrackToRegion": 0.508,
@@ -34,37 +34,37 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "aek-F_Cu.gtl",
+      "Path": "aek-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "aek-B_Cu.gbl",
+      "Path": "aek-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "aek-F_Silkscreen.gto",
+      "Path": "aek-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "aek-B_Silkscreen.gbo",
+      "Path": "aek-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "aek-F_Mask.gts",
+      "Path": "aek-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "aek-B_Mask.gbs",
+      "Path": "aek-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "aek-Edge_Cuts.gm1",
+      "Path": "aek-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
