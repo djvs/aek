@@ -2,7 +2,7 @@
 
 ![Screenshot of PCB](screenshot.png)
 
-USB/QMK atmega32u4 pcb for M0115, M3501 and possibly others, with WS2812B addressable LED support.  
+USB/QMK atmega32u4-au/mu pcb for M0115, M3501 and possibly others, with WS2812B addressable LED support.  And buzzer...and grid numpad option... 
 
 Released without warranty, use at your own risk.  
 
