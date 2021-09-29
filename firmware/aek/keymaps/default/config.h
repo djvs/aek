@@ -19,15 +19,15 @@
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0x7844   // "XD"
-#define PRODUCT_ID      0x9696
+#define VENDOR_ID       0x1209
+#define PRODUCT_ID      0x9209
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    djvs
 #define PRODUCT         aek
 
 /* key matrix size */
-#define MATRIX_ROWS 6
-#define MATRIX_COLS 18
+#define MATRIX_ROWS 10
+#define MATRIX_COLS 11
 
 /*
  * Keyboard Matrix Assignments
