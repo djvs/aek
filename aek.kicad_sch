@@ -7938,7 +7938,7 @@
     (property "Value" "WS2812B" (id 1) (at 41.91 249.4026 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (id 2) (at 41.91 249.4026 0)
+    (property "Footprint" "WS2812B:WS2812BDual" (id 2) (at 41.91 249.4026 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 40.64 259.08 90)
@@ -7959,7 +7959,7 @@
     (property "Value" "WS2812B" (id 1) (at 77.47 249.4026 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (id 2) (at 77.47 249.4026 0)
+    (property "Footprint" "WS2812B:WS2812BDual" (id 2) (at 77.47 249.4026 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 76.2 259.08 90)
@@ -7980,7 +7980,7 @@
     (property "Value" "WS2812B" (id 1) (at 113.03 249.4026 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (id 2) (at 113.03 249.4026 0)
+    (property "Footprint" "WS2812B:WS2812BDual" (id 2) (at 113.03 249.4026 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 111.76 259.08 90)
@@ -8491,13 +8491,13 @@
       (reference "J1") (unit 1) (value "Conn_01x04_MountingPin") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-0000612394e1"
-      (reference "LED1") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "LED1") (unit 1) (value "WS2812B") (footprint "WS2812B:WS2812BDual")
     )
     (path "/00000000-0000-0000-0000-00006197b9d3"
-      (reference "LED2") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "LED2") (unit 1) (value "WS2812B") (footprint "WS2812B:WS2812BDual")
     )
     (path "/00000000-0000-0000-0000-00006197d290"
-      (reference "LED3") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "LED3") (unit 1) (value "WS2812B") (footprint "WS2812B:WS2812BDual")
     )
     (path "/00000000-0000-0000-0000-00006130a8dc"
       (reference "R1") (unit 1) (value "330") (footprint "Resistor_SMD:R_0805_2012Metric")

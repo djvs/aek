@@ -1,5 +1,5 @@
 Drill report for aek.kicad_pcb
-Created on Mon 25 Oct 2021 10:02:34 PM EDT
+Created on Mon 25 Oct 2021 11:55:37 PM EDT
 
 Copper Layer Stackup:
     =============================================================
@@ -10,11 +10,12 @@ Copper Layer Stackup:
 Drill file 'aek-PTH.drl' contains
     plated through holes:
     =============================================================
-    T1  0.400mm  0.0157"  (478 holes)
-    T2  1.470mm  0.0579"  (436 holes)
-    T3  5.000mm  0.1969"  (2 holes)
+    T1  0.400mm  0.0157"  (476 holes)
+    T2  0.900mm  0.0354"  (12 holes)
+    T3  1.470mm  0.0579"  (436 holes)
+    T4  5.000mm  0.1969"  (2 holes)
 
-    Total plated holes count 916
+    Total plated holes count 926
 
 
 Drill file 'aek-NPTH.drl' contains
