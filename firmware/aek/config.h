@@ -23,8 +23,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define VENDOR_ID    0x1209
 #define PRODUCT_ID   0x9209
 #define DEVICE_VER   0x0001
-#define MANUFACTURER ALPS
-#define PRODUCT      Apple Extended Keyboard 2
+#define MANUFACTURER djvs
+#define PRODUCT      aek
 
 /* key matrix size */
 #define MATRIX_ROWS 11
