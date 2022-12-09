@@ -29,6 +29,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* key matrix size */
 #define MATRIX_ROWS 11
 #define MATRIX_COLS 10
+#define RGBLIGHT_LAYERS
 
 /*
  * Keyboard Matrix Assignments
