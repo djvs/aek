@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/home/d/keyboards/aek2usb/aek/aek.kicad_sch</source>
+    <source>/misc/keyboards/aek/aek.kicad_sch</source>
     <date>Sat 21 Aug 2021 05:14:34 PM EDT</date>
     <tool>Eeschema 5.99.0-unknown-ae51e60f70~131~ubuntu21.10.1</tool>
     <sheet number="1" name="/" tstamps="/">
@@ -29,7 +29,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006120a5a3</tstamps>
     </comp>
@@ -38,7 +38,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006120d99a</tstamps>
     </comp>
@@ -47,7 +47,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006125307a</tstamps>
     </comp>
@@ -56,7 +56,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061253e9a</tstamps>
     </comp>
@@ -65,7 +65,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006120dd2e</tstamps>
     </comp>
@@ -74,7 +74,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006120621d</tstamps>
     </comp>
@@ -83,7 +83,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006121f298</tstamps>
     </comp>
@@ -92,7 +92,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006137af7c</tstamps>
     </comp>
@@ -101,7 +101,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000621325ed</tstamps>
     </comp>
@@ -110,7 +110,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000062379141</tstamps>
     </comp>
@@ -119,7 +119,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061242afa</tstamps>
     </comp>
@@ -128,7 +128,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a675</tstamps>
     </comp>
@@ -137,7 +137,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407aa6</tstamps>
     </comp>
@@ -146,7 +146,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407b39</tstamps>
     </comp>
@@ -155,7 +155,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435117</tstamps>
     </comp>
@@ -164,7 +164,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614351aa</tstamps>
     </comp>
@@ -173,7 +173,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143523d</tstamps>
     </comp>
@@ -182,7 +182,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614352d0</tstamps>
     </comp>
@@ -191,7 +191,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a25a</tstamps>
     </comp>
@@ -200,7 +200,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2ed</tstamps>
     </comp>
@@ -209,7 +209,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a380</tstamps>
     </comp>
@@ -218,7 +218,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006125bc17</tstamps>
     </comp>
@@ -227,7 +227,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a668</tstamps>
     </comp>
@@ -236,7 +236,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a99</tstamps>
     </comp>
@@ -245,7 +245,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407b2c</tstamps>
     </comp>
@@ -254,7 +254,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143510a</tstamps>
     </comp>
@@ -263,7 +263,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143519d</tstamps>
     </comp>
@@ -272,7 +272,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435230</tstamps>
     </comp>
@@ -281,7 +281,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614352c3</tstamps>
     </comp>
@@ -290,7 +290,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a24d</tstamps>
     </comp>
@@ -299,7 +299,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2e0</tstamps>
     </comp>
@@ -308,7 +308,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a373</tstamps>
     </comp>
@@ -317,7 +317,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061261ac0</tstamps>
     </comp>
@@ -326,7 +326,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a65b</tstamps>
     </comp>
@@ -335,7 +335,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a8c</tstamps>
     </comp>
@@ -344,7 +344,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407b1f</tstamps>
     </comp>
@@ -353,7 +353,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350fd</tstamps>
     </comp>
@@ -362,7 +362,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435190</tstamps>
     </comp>
@@ -371,7 +371,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435223</tstamps>
     </comp>
@@ -380,7 +380,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614352b6</tstamps>
     </comp>
@@ -389,7 +389,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a240</tstamps>
     </comp>
@@ -398,7 +398,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2d3</tstamps>
     </comp>
@@ -407,7 +407,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a366</tstamps>
     </comp>
@@ -416,7 +416,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061261acd</tstamps>
     </comp>
@@ -425,7 +425,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a698</tstamps>
     </comp>
@@ -434,7 +434,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407ac9</tstamps>
     </comp>
@@ -443,7 +443,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407b5c</tstamps>
     </comp>
@@ -452,7 +452,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143513a</tstamps>
     </comp>
@@ -461,7 +461,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614351cd</tstamps>
     </comp>
@@ -470,7 +470,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435260</tstamps>
     </comp>
@@ -479,7 +479,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614352f3</tstamps>
     </comp>
@@ -488,7 +488,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a27d</tstamps>
     </comp>
@@ -497,7 +497,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a3a3</tstamps>
     </comp>
@@ -506,7 +506,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006126682e</tstamps>
     </comp>
@@ -515,7 +515,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a64e</tstamps>
     </comp>
@@ -524,7 +524,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a7f</tstamps>
     </comp>
@@ -533,7 +533,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407b12</tstamps>
     </comp>
@@ -542,7 +542,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350f0</tstamps>
     </comp>
@@ -551,7 +551,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435183</tstamps>
     </comp>
@@ -560,7 +560,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435216</tstamps>
     </comp>
@@ -569,7 +569,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614352a9</tstamps>
     </comp>
@@ -578,7 +578,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a233</tstamps>
     </comp>
@@ -587,7 +587,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2c6</tstamps>
     </comp>
@@ -596,7 +596,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a359</tstamps>
     </comp>
@@ -605,7 +605,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006126683b</tstamps>
     </comp>
@@ -614,7 +614,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a641</tstamps>
     </comp>
@@ -623,7 +623,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a72</tstamps>
     </comp>
@@ -632,7 +632,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407b05</tstamps>
     </comp>
@@ -641,7 +641,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350e3</tstamps>
     </comp>
@@ -650,7 +650,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435176</tstamps>
     </comp>
@@ -659,7 +659,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435209</tstamps>
     </comp>
@@ -668,7 +668,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143529c</tstamps>
     </comp>
@@ -677,7 +677,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a226</tstamps>
     </comp>
@@ -686,7 +686,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2b9</tstamps>
     </comp>
@@ -695,7 +695,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a34c</tstamps>
     </comp>
@@ -704,7 +704,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061266848</tstamps>
     </comp>
@@ -713,7 +713,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a634</tstamps>
     </comp>
@@ -722,7 +722,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a65</tstamps>
     </comp>
@@ -731,7 +731,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407af8</tstamps>
     </comp>
@@ -740,7 +740,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350d6</tstamps>
     </comp>
@@ -749,7 +749,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435169</tstamps>
     </comp>
@@ -758,7 +758,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614351fc</tstamps>
     </comp>
@@ -767,7 +767,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143528f</tstamps>
     </comp>
@@ -776,7 +776,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a219</tstamps>
     </comp>
@@ -785,7 +785,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2ac</tstamps>
     </comp>
@@ -794,7 +794,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a33f</tstamps>
     </comp>
@@ -803,7 +803,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061266855</tstamps>
     </comp>
@@ -812,7 +812,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a627</tstamps>
     </comp>
@@ -821,7 +821,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a58</tstamps>
     </comp>
@@ -830,7 +830,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407aeb</tstamps>
     </comp>
@@ -839,7 +839,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350c9</tstamps>
     </comp>
@@ -848,7 +848,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143515c</tstamps>
     </comp>
@@ -857,7 +857,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614351ef</tstamps>
     </comp>
@@ -866,7 +866,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435282</tstamps>
     </comp>
@@ -875,7 +875,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a20c</tstamps>
     </comp>
@@ -884,7 +884,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a29f</tstamps>
     </comp>
@@ -893,7 +893,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a332</tstamps>
     </comp>
@@ -902,7 +902,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006126a480</tstamps>
     </comp>
@@ -911,7 +911,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a61a</tstamps>
     </comp>
@@ -920,7 +920,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a4b</tstamps>
     </comp>
@@ -929,7 +929,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407ade</tstamps>
     </comp>
@@ -938,7 +938,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350bc</tstamps>
     </comp>
@@ -947,7 +947,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143514f</tstamps>
     </comp>
@@ -956,7 +956,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614351e2</tstamps>
     </comp>
@@ -965,7 +965,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435275</tstamps>
     </comp>
@@ -974,7 +974,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a1ff</tstamps>
     </comp>
@@ -983,7 +983,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a292</tstamps>
     </comp>
@@ -992,7 +992,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a325</tstamps>
     </comp>
@@ -1001,7 +1001,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006126a48d</tstamps>
     </comp>
@@ -1010,7 +1010,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a60d</tstamps>
     </comp>
@@ -1019,7 +1019,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a3e</tstamps>
     </comp>
@@ -1028,7 +1028,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407ad1</tstamps>
     </comp>
@@ -1037,7 +1037,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350af</tstamps>
     </comp>
@@ -1046,7 +1046,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a285</tstamps>
     </comp>
@@ -1055,7 +1055,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a318</tstamps>
     </comp>
@@ -1064,7 +1064,7 @@
       <footprint>MountingHole:MountingHole_2.7mm_M2.5_Pad</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061db0c88</tstamps>
     </comp>
@@ -1073,7 +1073,7 @@
       <footprint>MountingHole:MountingHole_2.7mm_M2.5_Pad</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061e33921</tstamps>
     </comp>
@@ -1082,7 +1082,7 @@
       <footprint>Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal</footprint>
       <libsource lib="Connector_Generic_MountingPin" part="Conn_01x04_MountingPin" description="Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000625405c4</tstamps>
     </comp>
@@ -1091,7 +1091,7 @@
       <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
       <libsource lib="ws2812b" part="WS2812B" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000612394e1</tstamps>
     </comp>
@@ -1100,7 +1100,7 @@
       <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
       <libsource lib="ws2812b" part="WS2812B" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006197b9d3</tstamps>
     </comp>
@@ -1109,7 +1109,7 @@
       <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
       <libsource lib="ws2812b" part="WS2812B" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006197d290</tstamps>
     </comp>
@@ -1118,7 +1118,7 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006130a8dc</tstamps>
     </comp>
@@ -1127,7 +1127,7 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061280f1c</tstamps>
     </comp>
@@ -1136,7 +1136,7 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000611fe6c8</tstamps>
     </comp>
@@ -1145,7 +1145,7 @@
       <footprint>random-keyboard-parts:SKQG-1155865</footprint>
       <libsource lib="alps64-rescue" part="SW_PUSH-keyboard_parts" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006127121f</tstamps>
     </comp>
@@ -1154,7 +1154,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a647</tstamps>
     </comp>
@@ -1163,7 +1163,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a386</tstamps>
     </comp>
@@ -1172,7 +1172,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a66e</tstamps>
     </comp>
@@ -1181,7 +1181,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2e6</tstamps>
     </comp>
@@ -1190,7 +1190,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a661</tstamps>
     </comp>
@@ -1199,7 +1199,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2d9</tstamps>
     </comp>
@@ -1208,7 +1208,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a692</tstamps>
     </comp>
@@ -1217,7 +1217,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a277</tstamps>
     </comp>
@@ -1226,7 +1226,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a654</tstamps>
     </comp>
@@ -1235,7 +1235,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2cc</tstamps>
     </comp>
@@ -1244,7 +1244,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a260</tstamps>
     </comp>
@@ -1253,7 +1253,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614352a2</tstamps>
     </comp>
@@ -1262,7 +1262,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435229</tstamps>
     </comp>
@@ -1271,7 +1271,7 @@
       <footprint>MX_Alps_Hybrid:MX-2U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2b2</tstamps>
     </comp>
@@ -1280,7 +1280,7 @@
       <footprint>MX_Alps_Hybrid:MX-1.5U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407afe</tstamps>
     </comp>
@@ -1289,7 +1289,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435236</tstamps>
     </comp>
@@ -1298,7 +1298,7 @@
       <footprint>MX_Alps_Hybrid:MX-1.75U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407b3f</tstamps>
     </comp>
@@ -1307,7 +1307,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407b0b</tstamps>
     </comp>
@@ -1316,7 +1316,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350f6</tstamps>
     </comp>
@@ -1325,7 +1325,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614352c9</tstamps>
     </comp>
@@ -1334,7 +1334,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435295</tstamps>
     </comp>
@@ -1343,7 +1343,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350cf</tstamps>
     </comp>
@@ -1352,7 +1352,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a253</tstamps>
     </comp>
@@ -1361,7 +1361,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a5e</tstamps>
     </comp>
@@ -1370,7 +1370,7 @@
       <footprint>MX_Alps_Hybrid:MX-2.25U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350dc</tstamps>
     </comp>
@@ -1379,7 +1379,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a63a</tstamps>
     </comp>
@@ -1388,7 +1388,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061242a16</tstamps>
     </comp>
@@ -1397,7 +1397,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006125bb43</tstamps>
     </comp>
@@ -1406,7 +1406,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a379</tstamps>
     </comp>
@@ -1415,7 +1415,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061261aba</tstamps>
     </comp>
@@ -1424,7 +1424,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a36c</tstamps>
     </comp>
@@ -1433,7 +1433,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061261ac7</tstamps>
     </comp>
@@ -1442,7 +1442,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a39d</tstamps>
     </comp>
@@ -1451,7 +1451,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061266828</tstamps>
     </comp>
@@ -1460,7 +1460,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a35f</tstamps>
     </comp>
@@ -1469,7 +1469,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061266835</tstamps>
     </comp>
@@ -1478,7 +1478,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a352</tstamps>
     </comp>
@@ -1487,7 +1487,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061266842</tstamps>
     </comp>
@@ -1496,7 +1496,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a345</tstamps>
     </comp>
@@ -1505,7 +1505,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407b25</tstamps>
     </comp>
@@ -1514,7 +1514,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614352bc</tstamps>
     </comp>
@@ -1523,7 +1523,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407b56</tstamps>
     </comp>
@@ -1532,7 +1532,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a62d</tstamps>
     </comp>
@@ -1541,7 +1541,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a85</tstamps>
     </comp>
@@ -1550,7 +1550,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a21f</tstamps>
     </comp>
@@ -1559,7 +1559,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143525a</tstamps>
     </comp>
@@ -1568,7 +1568,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407b18</tstamps>
     </comp>
@@ -1577,7 +1577,7 @@
       <footprint>MX_Alps_Hybrid:MX-2U-ReversedStabilizers-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614351f5</tstamps>
     </comp>
@@ -1586,7 +1586,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435288</tstamps>
     </comp>
@@ -1595,7 +1595,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350c2</tstamps>
     </comp>
@@ -1604,7 +1604,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614351e8</tstamps>
     </comp>
@@ -1613,7 +1613,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407ae4</tstamps>
     </comp>
@@ -1622,7 +1622,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a205</tstamps>
     </comp>
@@ -1631,7 +1631,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143527b</tstamps>
     </comp>
@@ -1640,7 +1640,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a51</tstamps>
     </comp>
@@ -1649,7 +1649,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a298</tstamps>
     </comp>
@@ -1658,7 +1658,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a44</tstamps>
     </comp>
@@ -1667,7 +1667,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a31e</tstamps>
     </comp>
@@ -1676,7 +1676,7 @@
       <footprint>MX_Alps_Hybrid:MX-2U-ReversedStabilizers-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350b5</tstamps>
     </comp>
@@ -1685,7 +1685,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a32b</tstamps>
     </comp>
@@ -1694,7 +1694,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a28b</tstamps>
     </comp>
@@ -1703,7 +1703,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435155</tstamps>
     </comp>
@@ -1712,7 +1712,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407ad7</tstamps>
     </comp>
@@ -1721,7 +1721,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a613</tstamps>
     </comp>
@@ -1730,7 +1730,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614352af</tstamps>
     </comp>
@@ -1739,7 +1739,7 @@
       <footprint>MX_Alps_Hybrid:MX-1.5U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614351a3</tstamps>
     </comp>
@@ -1748,7 +1748,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a22c</tstamps>
     </comp>
@@ -1757,7 +1757,7 @@
       <footprint>MX_Alps_Hybrid:MX-1.5U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614351b0</tstamps>
     </comp>
@@ -1766,7 +1766,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435202</tstamps>
     </comp>
@@ -1775,7 +1775,7 @@
       <footprint>MX_Alps_Hybrid:MX-1.25U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435243</tstamps>
     </comp>
@@ -1784,7 +1784,7 @@
       <footprint>MX_Alps_Hybrid:MX-2.25U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143511d</tstamps>
     </comp>
@@ -1793,7 +1793,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614351c7</tstamps>
     </comp>
@@ -1802,7 +1802,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2bf</tstamps>
     </comp>
@@ -1811,7 +1811,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435134</tstamps>
     </comp>
@@ -1820,7 +1820,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a620</tstamps>
     </comp>
@@ -1829,7 +1829,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a239</tstamps>
     </comp>
@@ -1838,7 +1838,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a78</tstamps>
     </comp>
@@ -1847,7 +1847,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006126a47a</tstamps>
     </comp>
@@ -1856,7 +1856,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143521c</tstamps>
     </comp>
@@ -1865,7 +1865,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a212</tstamps>
     </comp>
@@ -1874,7 +1874,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2a5</tstamps>
     </comp>
@@ -1883,7 +1883,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006126a487</tstamps>
     </comp>
@@ -1892,7 +1892,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006126684f</tstamps>
     </comp>
@@ -1901,7 +1901,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2f3</tstamps>
     </comp>
@@ -1910,7 +1910,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a92</tstamps>
     </comp>
@@ -1919,7 +1919,7 @@
       <footprint>MX_Alps_Hybrid:MX-1.5U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435189</tstamps>
     </comp>
@@ -1928,7 +1928,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a6b</tstamps>
     </comp>
@@ -1937,7 +1937,7 @@
       <footprint>MX_Alps_Hybrid:MX-1.5U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143516f</tstamps>
     </comp>
@@ -1946,7 +1946,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435162</tstamps>
     </comp>
@@ -1955,7 +1955,7 @@
       <footprint>MX_Alps_Hybrid:MX-1.25U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143517c</tstamps>
     </comp>
@@ -1964,7 +1964,7 @@
       <footprint>MX_Alps_Hybrid:MX-2.75U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143520f</tstamps>
     </comp>
@@ -1973,7 +1973,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407b32</tstamps>
     </comp>
@@ -1982,7 +1982,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a338</tstamps>
     </comp>
@@ -1991,7 +1991,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350e9</tstamps>
     </comp>
@@ -2000,7 +2000,7 @@
       <footprint>MX_Alps_Hybrid:MX-6.5U-ReversedStabilizers-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435196</tstamps>
     </comp>
@@ -2009,7 +2009,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a246</tstamps>
     </comp>
@@ -2018,7 +2018,7 @@
       <footprint>MX_Alps_Hybrid:MX-1.5U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407aac</tstamps>
     </comp>
@@ -2027,7 +2027,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a67b</tstamps>
     </comp>
@@ -2036,7 +2036,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614352ed</tstamps>
     </comp>
@@ -2045,7 +2045,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407af1</tstamps>
     </comp>
@@ -2054,7 +2054,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435103</tstamps>
     </comp>
@@ -2063,7 +2063,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a9f</tstamps>
     </comp>
@@ -2072,7 +2072,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435110</tstamps>
     </comp>
@@ -2081,7 +2081,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407ac3</tstamps>
     </comp>
@@ -2090,7 +2090,7 @@
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614352d6</tstamps>
     </comp>
@@ -2100,7 +2100,7 @@
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</datasheet>
       <libsource lib="MCU_Microchip_ATmega" part="ATmega32U4-AU" description="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000611ebb71</tstamps>
     </comp>
@@ -2109,7 +2109,7 @@
       <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
       <libsource lib="Device" part="Crystal_GND24_Small" description="Four pin crystal, GND on pins 2 and 4, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/home/d/keyboards/aek2usb/aek/aek.sch"/>
+      <property name="Sheetfile" value="/misc/keyboards/aek/aek.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000612269b2</tstamps>
     </comp>
@@ -2319,16 +2319,16 @@
       <uri>/usr/share/kicad/library/Device.lib</uri>
     </library>
     <library logical="MX_Alps_Hybrid">
-      <uri>/home/d/keyboards/aek2usb/aek/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib</uri>
+      <uri>/misc/keyboards/aek/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib</uri>
     </library>
     <library logical="Mechanical">
       <uri>/usr/share/kicad/library/Mechanical.lib</uri>
     </library>
     <library logical="alps64-rescue">
-      <uri>/home/d/keyboards/alps64/alps64-rescue.lib</uri>
+      <uri>/misc/keyboards/alps64/alps64-rescue.lib</uri>
     </library>
     <library logical="ws2812b">
-      <uri>/home/d/keyboards/aek2usb/aek/WS2812B.pretty/Schematic-Symbol/ws2812b.lib</uri>
+      <uri>/misc/keyboards/aek/WS2812B.pretty/Schematic-Symbol/ws2812b.lib</uri>
     </library>
   </libraries>
   <nets>
