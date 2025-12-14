@@ -61,25 +61,29 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 //#define BACKLIGHT_PIN F4
 //#define BACKLIGHT_CAPS_LOCK
-//#define BACKLIGHT_DRIVER = 
+//#define BACKLIGHT_DRIVER =
 //#define BACKLIGHT_LEVELS 3
 //#define BACKLIGHT_BREATHING
 
 #define RGB_DI_PIN F4
 #ifdef RGB_DI_PIN
 #    define RGBLED_NUM 3
-#    define RGBLIGHT_DEFAULT_MODE (RGBLIGHT_MODE_RAINBOW_SWIRL)
+// #    define RGBLIGHT_DEFAULT_MODE (RGBLIGHT_MODE_RAINBOW_SWIRL + 1)
+#    define RGBLIGHT_RAINBOW_SWIRL_RANGE 92
+//#    define RGBLIGHT_DEFAULT_MODE (RGBLIGHT_MODE_STATIC_LIGHT)
+// #    define RGBLIGHT_DEFAULT_MODE (RGBLIGHT_MODE_BREATHING)
 
-#    define RGBLIGHT_DEFAULT_HUE 64
-//#    define RGBLIGHT_DEFAULT_SAT 255
-#    define RGBLIGHT_DEFAULT_VAL 255
-//#    define RGBLIGHT_HUE_STEP 8
-//#    define RGBLIGHT_SAT_STEP 8
-//#    define RGBLIGHT_VAL_STEP 8
+#    define RGBLIGHT_DEFAULT_HUE 192
+#    define RGBLIGHT_DEFAULT_SAT 220
+// #    define RGBLIGHT_DEFAULT_VAL 10
+// #    define RGBLIGHT_LIMIT_SAT 120
+// #    define RGBLIGHT_HUE_STEP 64
+// #    define RGBLIGHT_SAT_STEP 64
+// #    define RGBLIGHT_VAL_STEP 64
 //#    define RGBLIGHT_LIMIT_VAL 255 /* The maximum brightness level */
 //#    define RGBLIGHT_SLEEP  /* If defined, the RGB lighting will be switched off when the host goes to sleep */
 /*== all animations enable ==*/
-#    define RGBLIGHT_ANIMATIONS
+// #    define RGBLIGHT_ANIMATIONS
 /*== or choose animations ==*/
 //#    define RGBLIGHT_EFFECT_BREATHING
 //#    define RGBLIGHT_EFFECT_RAINBOW_MOOD
