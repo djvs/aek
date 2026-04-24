@@ -176,9 +176,9 @@ void rgblight_effect_custom_swirl_v2(void) {
     // calculate the total elapsed time mod the cycle time
     uint32_t current_time_ms = timer_read32() % TOTAL_CYCLE_MS;
 
-    for (uint8_t i = 0; i < RGBLED_NUM; i++) {
+    for (uint8_t i = 0; i < RGBLIGHT_LED_COUNT; i++) {
         // calculate a staggered delay for each LED (0ms for LED0, up to ~10s for the last LED)
-        uint32_t led_offset_ms = (TOTAL_CYCLE_MS / RGBLED_NUM) * i;
+        uint32_t led_offset_ms = (TOTAL_CYCLE_MS / RGBLIGHT_LED_COUNT) * i;
         uint32_t led_time_ms = (current_time_ms + led_offset_ms) % TOTAL_CYCLE_MS;
 
         // determine progress through the 10-second cycle (0-255 range)
