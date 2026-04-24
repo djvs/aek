@@ -1,16 +1,41 @@
 {
+    "manufacturer": "djvs",
     "keyboard_name": "aek",
-    "url": "",
     "maintainer": "djvs",
-    "width": 3,
+    "_invalid": {
+        "unused_pins": "{ E6, C7 }"
+    },
+    "bootloader": "atmel-dfu",
+    "bootmagic": {
+        "enabled": true
+    },
+    "debounce": 5,
+    "diode_direction": "COL2ROW",
+    "dynamic_keymap": {
+        "layer_count": 2
+    },
     "height": 2,
+    "mouse_key": {
+        "enabled": true
+    },
+    "processor": "atmega32u4",
+    "url": "",
+    "usb": {
+        "device_version": "0.0.1",
+        "pid": "0x9209",
+        "vid": "0x1209"
+    },
+    "width": 3,
+    "ws2812": {
+        "driver": "bitbang",
+        "pin": "F4"
+    },
     "layouts": {
         "LAYOUT": {
             "layout": [
                 {"label": "k00", "x": 0, "y": 0},
                 {"label": "k01", "x": 1, "y": 0},
                 {"label": "k02", "x": 2, "y": 0},
-
                 {"label": "k10", "x": 0, "y": 1, "w": 1.5},
                 {"label": "k12", "x": 1.5, "y": 1, "w": 1.5}
             ]

@@ -17,19 +17,16 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
-#include "config_common.h"
+// #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID    0x1209
-#define PRODUCT_ID   0x9209
-#define DEVICE_VER   0x0001
-#define MANUFACTURER "djvs"
-#define PRODUCT      "aek"
 
 /* key matrix size */
 #define MATRIX_ROWS 11
 #define MATRIX_COLS 10
 #define RGBLIGHT_LAYERS
+#undef RGBLIGHT_LED_COUNT 
+#define RGBLIGHT_LED_COUNT 3
 
 /*
  * Keyboard Matrix Assignments
@@ -43,10 +40,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 #define MATRIX_ROW_PINS { D7, B3, B7, D1, D3, D4, D5, D2, D0, B2, B1 }
 #define MATRIX_COL_PINS { F0, F1, F5, F6, F7, B6, B5, B4, D6, B0 }
-#define UNUSED_PINS { E6, C7 }
 
 /* COL2ROW, ROW2COL */
-#define DIODE_DIRECTION COL2ROW
 
 /*
  * Split Keyboard specific options, make sure you have 'SPLIT_KEYBOARD = yes' in your rules.mk, and define SOFT_SERIAL_PIN.
@@ -65,15 +60,15 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //#define BACKLIGHT_LEVELS 3
 //#define BACKLIGHT_BREATHING
 
-#define RGB_DI_PIN F4
-#ifdef RGB_DI_PIN
+#ifdef WS2812_DI_PIN
+#    undef RGBLED_NUM 
 #    define RGBLED_NUM 3
 // #    define RGBLIGHT_DEFAULT_MODE (RGBLIGHT_MODE_RAINBOW_SWIRL + 1)
 #    define RGBLIGHT_RAINBOW_SWIRL_RANGE 92
 //#    define RGBLIGHT_DEFAULT_MODE (RGBLIGHT_MODE_STATIC_LIGHT)
 // #    define RGBLIGHT_DEFAULT_MODE (RGBLIGHT_MODE_BREATHING)
 
-#    define RGBLIGHT_DEFAULT_HUE 192
+//#    define RGBLIGHT_DEFAULT_HUE 192
 #    define RGBLIGHT_DEFAULT_SAT 220
 // #    define RGBLIGHT_DEFAULT_VAL 10
 // #    define RGBLIGHT_LIMIT_SAT 120
@@ -104,7 +99,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #endif
 
 /* Debounce reduces chatter (unintended double-presses) - set 0 if debouncing is not needed */
-#define DEBOUNCE 5
 
 /* define if matrix has ghost (lacks anti-ghosting diodes) */
 //#define MATRIX_HAS_GHOST
@@ -164,4 +158,3 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //#define BOOTMAGIC_LITE_ROW 0
 //#define BOOTMAGIC_LITE_COLUMN 0
 
-#define DYNAMIC_KEYMAP_LAYER_COUNT 2

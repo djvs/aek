@@ -72,15 +72,74 @@ bool led_update_user(led_t led_state) {
 
 
 // custom LED animation
-static const HSV custom_colors[] = {
+/*static const HSV custom_colors[] = {
     { 0,   192, 255 },   // red
     { 32,  192, 255 },   // orange
     { 170, 192, 255 },   // blue
+};*/
+
+/* fire */
+/*static const HSV custom_colors[] = {
+    {  0, 255,  20 },  // near-black ember
+    {  1, 255,  40 },
+    {  3, 255,  80 },
+    {  5, 255, 160 },
+    {  8, 250, 255 },  // flare
+    {  6, 255, 200 },
+    { 10, 245, 255 },
+    { 14, 235, 220 },
+    { 12, 255, 255 },
+    { 18, 230, 240 },
+    { 22, 220, 255 },  // hot yellow
+    { 16, 240, 200 },
+    { 10, 255, 180 },
+    {  6, 255, 120 },
+    {  4, 255,  60 },
+    {  2, 255,  30 },  // blackout dip
+
+    {  3, 255,  50 },
+    {  6, 255, 120 },
+    { 10, 250, 220 },
+    { 14, 240, 255 },
+    { 18, 230, 240 },
+    { 24, 210, 255 },
+    { 20, 225, 200 },
+    { 14, 240, 160 },
+    { 10, 255, 100 },
+    {  6, 255,  60 },
+    {  4, 255,  25 },  // second deep dip
+
+    {  6, 255,  50 },
+    { 10, 255, 120 },
+    { 16, 240, 255 },
+    { 22, 220, 255 },
+    { 18, 230, 220 },
+    { 12, 245, 180 },
+    {  6, 255, 120 },
+    {  2, 255,  40 },
+    {  0, 255,  20 }   // loop-safe end
+};*/
+
+
+static const HSV custom_colors[] = {
+    {247, 143, 167},
+    {255, 200, 160},
+    {255, 255, 153},
+    //{143, 247, 223},
+
+    {255, 157, 104},
+	//{255, 151, 203},
+	//{243, 255, 149},
+	//{198, 249, 126},
+	{255, 192, 192},
+    {100, 255, 100},
 };
+
+
 
 #define CUSTOM_COLOR_COUNT (sizeof(custom_colors) / sizeof(custom_colors[0]))
 
-#define TOTAL_CYCLE_SECONDS 5
+#define TOTAL_CYCLE_SECONDS 10
 #define TOTAL_CYCLE_MS (TOTAL_CYCLE_SECONDS * 1000UL) 
 #define FRAME_INTERVAL_MS 16
 

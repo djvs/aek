@@ -28,9 +28,10 @@ Do:
 
 qmk setup # to set up ~/qmk_firmware if it doesn't exist 
 
-cp -rv /whatever/path/to/this/firmware/dir ~/qmk_firmware/keyboards/aek 
+cp -rv /whatever/path/to/this/firmware/dir ~/qmk_firmware/keyboards/aek (or use ln -s) 
 
 qmk flash -kb aek -km djvs 
 
-# do mod + power key on the actual keyboard
+# do mod + power key on the actual keyboard to reset
+
 ```
